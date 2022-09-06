@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head><title>Latihan Table</title></head>
+	<body>
+		<h3 align="center">Jadwal Kuliahku 2022</h3>
+		<table align="center" border="1" cellpadding="20" cellspacing="0"
+		       width="70%">
+			<thead>
+				<tr bgcolor="tomato" >
+					<th>Hari</th>
+					<th>Jam</th>
+					<th>Mata Kuliah</th>
+					<th>Dosen</th>
+					<th>Ruang</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+				<td rowspan="2" align="center">Senin</td>
+<td align="left">08.00-10.00</td>
+					<td>Kajian Islam</td>
+					<td align="left">Ust. Anwar Nasihin, Lc</td>
+					<td align="left">Ruang Teori</td>
+				</tr>
+				<tr>
+			<td align="left">10.00-12.00</td>
+					<td>Aplikasi Perkantoran</td>
+					<td align="left">Drs. MGS Hendri</td>
+					<td rowspan="5" align="left">Ruang I</td>
+				</tr>
+				<tr>
+	<td rowspan="2" align="center">Selasa</td>
+	<td align="left">08.00-10.00</td>
+					<td>Linux Fundamental</td>
+<td align="left">Henry Saptono S. si, M. Kom</td>
+				</tr>
+				<tr>
+<td align="left">10.00-12.00</td>
+					<td>HTML, CSS, JavaScript</td>
+					<td rowspan="3" align="left">Sirojul Munir S. si, M. Kom</td>
+				</tr>
+				<td rowspan="2" align="center">Rabu</td>
+				<td align="left">08.00-10.00</td>
+	<td>Basis Data</td>
+				</tr>
+				<tr>
+			<td align="left">10.00-12.00</td>
+	<td>Algoritma Pemrograman</td>
+				</tr>
+	<tr>
+  <td rowspan="2" align="center">Kamis</td>
+<td align="left">08.00-10.00</td>
+	<td>Kewirausahaan & pengembangan diri</td>
+<td align="left">Khoirul Umam, S. Pd</td>
+<td rowspan="2" align="left">Ruang Teori</td>
+				</tr>
+				<tr>
+<td align="left">10.00-12.00</td>
+				  <td>Bahasa Inggris</td>
+					<td align="left">Drs. Muhfidz</td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+</html>
