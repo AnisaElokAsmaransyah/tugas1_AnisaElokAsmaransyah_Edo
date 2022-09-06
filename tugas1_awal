@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Tentang diriku</title>
+	</head>
+	<body bgcolor="orange">
+		<h1 align="center">
+			<marquee direction="right" scrolldelay="300">
+			Welcome To My Profile
+			</marquee>
+		</h1>
+		<hr/> <!-- horizontal rule -->
+		<p align="justify">
+		<img src="fg.jpg" width="8%" align="left" hspace="10" height="150px"/>
+        Namaku Anisa Elok Asmarnsyah mahasiswa semester 5 di salah satu Universitas swasta yaitu di universitas Muria Kudus, Kudus - Jawa Tengah, dengan mengambil
+        program studi Teknik Informatika. Asal domisili saya dari Desa Ketangi Rt. 05 / Rw. 03 Kec. Pamotan Kab. Rembang Jawa Tengah.
+		</p>
+		<p align="center">
+		Alasan mengapa saya mengambil jurusan ini karena termotivasi dengan materi - materi di jenjang SMK dimana pada saat itu
+        saya mengambil jurusan Rekayasa Perangkat Lunak ( RPL ), karena merasa jika tidak diteruskan ilmu yang sudah di pelajari sia - sia.
+        Maka dari itu, saya melanjutkan pendidikan di perguruan tinggi dengan mengambil jurusan tersebut
+        </p>
+		<p align="right">
+		Harapan yang saya miliki  dengan mengambil jurusan ini semoga ilmu yang sudah saya pelajari bisa saya terapkan ketika
+        saya sudah menempuh di dunia kerja dan bisa bermanfaat bagi sesama.
+        </p>
+		<fieldset>
+			<legend>
+				<font size="5" color="green" face="calibri">
+					<b><i><u>Tentang Saya</u></i></b>
+				</font>
+			</legend>
+				<ol type="A">
+					<li>Pendidikan
+						<ul type="square">
+							<li>SDN KETANGI</li>
+							<li>SMP DARUT TAUHID TAMBAKBOYO - TUBAN</li>
+							<li>SMK UMAR FATAH REMBANG</li>
+							<li>Universitas MURIA KUDUS
+								<ol type="1">
+									<li>Semester 5</li>
+								</ol>
+							</li>
+						</ul>
+					</li>
+					<li>Hobby
+						<ul type="circle">
+							<li>Nonton Youtube</li>
+							<li>Playlist Podcast "Rintik Sedu"</li>
+                            <li>Memasak</li>
+						</ul>
+					</li>
+					<li>Favorite Menu
+						<ul type="disc">
+							<li>Makanan</li>
+                                <ol type="a">
+                                    <li>Mie Ayam</li>
+                                    <li>Fried Chicken</li>
+                                </ol>
+							<li>Minuman</li>
+                            <ol type="a">
+                                <li>Es Teh</li>
+                                <li>Jus Jambu</li>
+                            </ol>
+						</ul>
+					</li>
+				</ol>
+		</fieldset>
+	</body>
+</html>
